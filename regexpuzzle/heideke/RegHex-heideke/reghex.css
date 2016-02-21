@@ -1,0 +1,57 @@
+svg {
+  display: none;
+  background: #ddd;
+}
+
+svg a {
+  font-size: 20pt;
+}
+svg a:hover { 
+  fill: red;
+}
+.cell text , text.buttons { 
+  text-anchor: middle; 
+  dominant-baseline: central;
+}
+.edge text { 
+  text-anchor: end; 
+}
+.cell path {
+  fill: white;
+  stroke: black;
+}
+.clue text { 
+  font-weight: bold;
+}
+.clue path { 
+  fill: gray;
+}
+.selectable:hover { 
+  cursor: pointer;
+}
+.selectable:hover path { 
+  stroke-width: 2; 
+  fill: #ff8;
+}
+.selectable:hover text { 
+  fill: black;
+}
+.focused .selected path {
+  stroke-width: 2; 
+  fill: #8ff !important;
+}
+.focused .selected text {
+  fill: black !important;
+}
+.A-success path,.B-success path,.C-success path {
+  fill: #8f8;
+}
+.A-success.B-success path,.B-success.C-success path,.C-success.A-success path {
+  fill: #4d4;
+}
+.A-success.B-success.C-success path {
+  fill: #2b2;
+}
+.A-failure path,.B-failure path,.C-failure path {
+  fill: #e66 !important;
+}

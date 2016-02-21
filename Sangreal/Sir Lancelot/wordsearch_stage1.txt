@@ -1,0 +1,60 @@
+rot 0
+cache cache row 11, column 19 --> row 15, column 19
+coordinaten coordinaten row 3, column 18 --> row 13, column 8
+favorites favorites row 21, column 14 --> row 13, column 14
+geocaching geocaching row 22, column 22 --> row 22, column 13
+gps gps row 11, column 7 --> row 11, column 9
+groundspeak groundspeak row 14, column 8 --> row 4, column 18
+hitchhiker hitchhiker row 14, column 19 --> row 5, column 10
+moeilijkheid moeilijkheid row 16, column 9 --> row 16, column 20
+muggle muggle row 7, column 2 --> row 2, column 2
+noorderbreedte noorderbreedte row 1, column 16 --> row 14, column 3
+oosterlengte oosterlengte row 11, column 1 --> row 22, column 12
+pincet pincet row 1, column 18 --> row 6, column 13
+prikstok prikstok row 4, column 4 --> row 11, column 4
+satelliet satelliet row 2, column 13 --> row 2, column 5
+tag tag row 20, column 20 --> row 22, column 22
+terrein terrein row 22, column 8 --> row 16, column 2
+tftc tftc row 15, column 15 --> row 12, column 15
+utm utm row 1, column 19 --> row 3, column 19
+waterdicht waterdicht row 2, column 3 --> row 11, column 3
+zaklamp zaklamp row 11, column 14 --> row 17, column 8
+rot 13
+cache pnpur row 5, column 1 --> row 1, column 1
+camouflage pnzbhsyntr row 5, column 18 --> row 14, column 9
+cito pvgb row 21, column 1 --> row 18, column 1
+dnf qas row 2, column 21 --> row 4, column 19
+filmrolletje svyzebyyrgwr row 15, column 6 --> row 4, column 6
+ftf sgs row 9, column 2 --> row 11, column 2 --> row 11, column 2 --> row 9, column 2
+geocoin trbpbva row 16, column 1 --> row 22, column 7
+geoswag trbfjnt row 8, column 11 --> row 2, column 5
+goodies tbbqvrf row 13, column 15 --> row 7, column 21
+gps tcf row 12, column 17 --> row 14, column 15
+logboekje ybtobrxwr row 18, column 11 --> row 18, column 19
+loggen ybttra row 10, column 17 --> row 15, column 17
+magnetisch zntargvfpu row 17, column 18 --> row 17, column 9
+microcache zvpebpnpur row 10, column 1 --> row 1, column 1
+munitiebox zhavgvrobk row 4, column 22 --> row 13, column 22
+projectie cebwrpgvr row 13, column 2 --> row 21, column 10
+smiley fzvyrl row 22, column 6 --> row 17, column 1
+travelbug geniryoht row 22, column 9 --> row 14, column 1
+tupperware ghccrejner row 4, column 20 --> row 13, column 20
+utm hgz row 10, column 3 --> row 10, column 1
+verstopt irefgbcg row 14, column 22 --> row 21, column 22
+waypoint jnlcbvag row 15, column 11 --> row 8, column 18
+zoeken mbrxra row 7, column 7 --> row 2, column 12
+rot 25
+ftf ese row 12, column 3 --> row 14, column 3 --> row 14, column 3 --> row 12, column 3 --> row 16, column 18 --> row 18, column 20 --> row 16, column 22 --> row 18, column 20 --> row 18, column 20 --> row 16, column 18 --> row 18, column 20 --> row 16, column 22
+gps for row 17, column 11 --> row 15, column 9
+utm tsl row 13, column 15 --> row 13, column 13
+not found
+challenge ['challenge', 'punyyratr', 'bgzkkdmfd']
+earthcache ['earthcache', 'rnegupnpur', 'dzqsgbzbgd']
+event ['event', 'rirag', 'dudms']
+letterboxhybrid ['letterboxhybrid', 'yrggreobkuloevq', 'kdssdqanwgxaqhc']
+meetandgreet ['meetandgreet', 'zrrgnaqterrg', 'lddszmcfqdds']
+multicache ['multicache', 'zhygvpnpur', 'ltkshbzbgd']
+mystery ['mystery', 'zlfgrel', 'lxrsdqx']
+nachtcache ['nachtcache', 'anpugpnpur', 'mzbgsbzbgd']
+traditional ['traditional', 'genqvgvbany', 'sqzchshnmzk']
+wherigo ['wherigo', 'jurevtb', 'vgdqhfn']

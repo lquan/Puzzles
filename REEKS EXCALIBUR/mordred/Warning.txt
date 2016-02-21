@@ -1,0 +1,1 @@
+minizinc solution works, but EcLiPse doesn't (couldn't change the requirements for non square boards)

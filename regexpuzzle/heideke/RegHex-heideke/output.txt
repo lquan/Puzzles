@@ -1,0 +1,21 @@
+> ghc -O heideke
+[1 of 1] Compiling Main             ( heideke.hs, heideke.o )
+Linking heideke.exe ...
+
+> heideke
+** Elapsed problem construction time: 0.874s
+** Elapsed translation time: 0.000s
+** Elapsed z3 time: 34m 11.018s
+   GGGGEOO
+   GINGINCA
+  RPGOESZCA
+  CRTOIFSWOD
+ ISROHPTBYOD
+ KOAEETXFUGCD
+IDEEEEHEIDEID
+ DOGDOGDOGDOG
+ IEEHOTOIOER
+  EEFCOINNUG
+  HEABUGBOX
+   HSSYYYEI
+   HHHUUUU
