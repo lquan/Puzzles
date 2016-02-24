@@ -1,0 +1,6 @@
+C:\Temp\Othello\Othello\Othello\bin\Debug\Othello.exe
+C:\Temp\Othello\Othello\Othello\bin\Debug\Othello.pdb
+C:\Temp\Othello\Othello\Othello\obj\x86\Debug\Othello.exe
+C:\Temp\Othello\Othello\Othello\obj\x86\Debug\Othello.pdb
+I:\code\Othello\Othello\Othello\obj\x86\Debug\Othello.exe
+I:\code\Othello\Othello\Othello\obj\x86\Debug\Othello.pdb
